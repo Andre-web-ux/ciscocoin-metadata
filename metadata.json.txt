@@ -1,0 +1,6 @@
+{
+  "name": "CiscoCoin",
+  "symbol": "CISCO",
+  "description": "A learning project token on Solana Devnet.",
+  "image": "<raw URL of logo.png>"
+}
