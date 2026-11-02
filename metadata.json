@@ -2,5 +2,5 @@
   "name": "CiscoCoin",
   "symbol": "CISCO",
   "description": "A learning project token on Solana Devnet.",
-  "image": "<raw URL of logo.png>"
+  "image": "https://github.com/Andre-web-ux/ciscocoin-metadata/blob/main/logo.png"
 }
